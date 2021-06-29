@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "gprietovv-books-dev"
-        STAGE_PROJECT = "gprietovv-books-stage"
+        DEV_PROJECT = "lzzmhl-books-dev"
+        STAGE_PROJECT = "lzzmhl-books-stage"
         APP_GIT_URL = "https://github.com/gprietovv/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com/repository/nodejs"
 
